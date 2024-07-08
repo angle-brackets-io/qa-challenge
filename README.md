@@ -11,8 +11,8 @@ We have a todo app that is using [todoMVC](http://todomvc.com/) as its base, we'
 How to attempt this challenge:
 
 1) Do not fork, comment, open issues, or otherwise interact directly with this repo.
-2) To see the current, deployed version of our app, visit https://qa.challenges.outlier.org
-3) View the [list of open pull requests](https://github.com/outlier-org/qa-challenge/pulls)
+2) To see the current, deployed version of our app, visit https://challenge-qa.netlify.app/
+3) View the [list of open pull requests](https://github.com/angle-brackets-io/qa-challenge/pulls)
 4) We use [Netlify Deploy Previews](https://www.netlify.com/blog/2016/07/20/introducing-deploy-previews-in-netlify/). You may view a deploy preview for each pull request by clicking on the appropriate link in the "checks" section of the PR.
 5) Investigate the pull requests. Take note of any problems.
 6) Create a [Secret Gist](https://gist.github.com) with your notes, and send its URL to your hiring contact.
